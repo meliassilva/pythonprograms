@@ -1,7 +1,7 @@
 """
 File: 05_Prove_Assignment_Mario.py
-Author: Brother Burton
-Assignment: 005_Prove_Assignment_Mario _ Adventure Game
+Author: Mario Elias
+Assignment: 05_Prove_Assignment_Mario _ Adventure Game
 Purpose: Learning how to learn with different variable types and make
 some calculation.
 """
