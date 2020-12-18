@@ -1,6 +1,6 @@
 """
 File: 03_Prove_Milestone_Mario.py
-Author: Brother Burton
+Author: Mario Elias
 Assignment: 03 Prove: Milestone - Meal Price Calculator
 Purpose: Learning how to work with a different variable types
 """
