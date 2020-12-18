@@ -1,6 +1,6 @@
 """
 File: 04_Prove_Assignment_Mario.py
-Author: Brother Burton
+Author: Mario Elias
 Assignment: 04 Prove: Assignment - Meal Price Calculator
 Purpose: Learning how to learn with different variable types and make
 some calculation.
